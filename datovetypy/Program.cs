@@ -17,10 +17,28 @@ namespace Program
             //    Console.WriteLine(fib[i]);
             //}
             
-            int x=1;
-            Console.WriteLine(++x);
-            Console.WriteLine(x++);
-            Console.ReadLine();
+            //operátory % (dělení se zbytkem), / dělní bezezbytku, +- sčítání odčítání
+
+            //int a = 5;
+            //int b = 2;
+            //a %=b;
+            
+            //Console.WriteLine("a=" + a);
+            //Console.WriteLine("b=" + b);
+
+            //int c = 5;
+            //int d = 2;
+            //c /=d;
+            //Console.WriteLine("c=" + c);
+            //Console.WriteLine("d=" + d);
+            
+            //operátor negace ! (jenom pro boolean)
+
+            //bool x = true;
+            //Console.WriteLine(!x);
+
+            Console.WriteLine("5" + "5");
+            Console.ReadKey();
         }
     }
 }

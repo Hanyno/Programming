@@ -1,0 +1,15 @@
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.csproj.AssemblyReference.cache
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.AssemblyInfoInputs.cache
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.AssemblyInfo.cs
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.csproj.CoreCompileInputs.cache
+D:\Programming\UPA03\bin\Debug\net6.0\UPA03.exe
+D:\Programming\UPA03\bin\Debug\net6.0\UPA03.deps.json
+D:\Programming\UPA03\bin\Debug\net6.0\UPA03.runtimeconfig.json
+D:\Programming\UPA03\bin\Debug\net6.0\UPA03.dll
+D:\Programming\UPA03\bin\Debug\net6.0\UPA03.pdb
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.dll
+D:\Programming\UPA03\obj\Debug\net6.0\refint\UPA03.dll
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.pdb
+D:\Programming\UPA03\obj\Debug\net6.0\UPA03.genruntimeconfig.cache
+D:\Programming\UPA03\obj\Debug\net6.0\ref\UPA03.dll
