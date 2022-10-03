@@ -17,7 +17,9 @@ namespace Program
             //    Console.WriteLine(fib[i]);
             //}
             
-            
+            int x=1;
+            Console.WriteLine(++x);
+            Console.WriteLine(x++);
             Console.ReadLine();
         }
     }
