@@ -92,8 +92,10 @@ namespace Program
                 Console.ReadKey();
                 **/
 
+                /**
                 Console.Write("Zadejte počet hvězdiček: ");
-                int delka = int.Parse(Console.ReadLine());
+                int delka; 
+                int.TryParse(Console.ReadLine(), out delka);
                 for (int radky = 1; radky <= delka; radky++)
                 {
                     for (int mezery = 0; mezery < radky-1; mezery++)
@@ -102,6 +104,22 @@ namespace Program
                     }
                     Console.Write("*\n"); 
                 }
+                **/
+
+                //Stromeček :)
+
+                int h = 4;
+                int kmen = h/2;
+
+                for (int i = 0;i<h;i++)
+                {
+                    for (int j = 0; j<i; j+=2)
+                    {
+                        Console.Write(" ");
+                    }
+                    Console.WriteLine("*");
+                }
+                Console.ReadKey();
             }
         }
     }
