@@ -37,7 +37,10 @@ namespace Program
             //bool x = true;
             //Console.WriteLine(!x);
 
-            Console.WriteLine("5" + "5");
+            //Console.WriteLine("5" + "5");
+            int a = 2147483647, b = 5;
+            int vysledek = a + b;
+            Console.WriteLine(vysledek);
             Console.ReadKey();
         }
     }
