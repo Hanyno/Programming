@@ -9,7 +9,7 @@ namespace Program
             zacatek:
             Console.WriteLine("Zvolte datový typ vašeho vstupu: "); //zde si uživatel zvolí jednu ze tří možností datových typů
             Console.Write("1 - celočíselný \n2 - desetinný \n3 - vědecký \n");
-            string datovyTyp = Console.ReadLine();
+            string datovyTyp = "1";
 
             if(datovyTyp == "1") //zde se sečtou dvě celá čísla
             {
