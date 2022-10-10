@@ -64,6 +64,7 @@ namespace Program
                         break;
                 }
             }
+            Console.Clear();
             Console.WriteLine("Máte celkem {0} bodů.", body);
             Console.ReadKey();
         }
