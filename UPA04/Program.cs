@@ -39,7 +39,7 @@ namespace Program
             string[] otazky = new string[] {"Jaké je hlavní město Madagaskaru?", "Kolik je 2+2?", "Jaká je šance, že tohle bude fungovat?"};
             string[,] odpovedi = new string[3,2] {{"1 - Madagaskar", "2 - Antananarivo"}, {"1 - 5", "2 - 4"}, {"1 - 50%" ,"2 - 30%"}};
             int body = 0;
-            for (int i = 0; i<=2; i++)
+            for (int i = 0; i<=otazky.Length; i++)
             {
                 Console.Clear();
                 Console.WriteLine(otazky[i]);
