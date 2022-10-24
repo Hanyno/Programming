@@ -4,6 +4,7 @@ namespace Program
 {
     internal class app
     {
+        //nerekurzivní řešení faktoriálu
         public static int Faktorial (int c)
         {
             //vypocet faktorialu
@@ -15,6 +16,7 @@ namespace Program
             }
             return vysledek;
         }
+        //rekurzivní řešení faktoriálu
         public static int Faktorial2 (int c)
         {
             if (c <= 1)
