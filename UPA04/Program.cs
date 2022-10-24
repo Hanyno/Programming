@@ -92,10 +92,10 @@ namespace Program
                 celkovaVzalenost = 0;
                 Console.Clear();
                 Console.WriteLine("Jaké je vaše {0}. auto?", i+1);
-                auto[i] = Console.ReadLine();
+                auto[i] = "ford";                                                       //readline
                 Console.Clear();
                 Console.WriteLine("Na jaké palivo {0} jezdí?", auto[i]);
-                palivo[i] = Console.ReadLine();
+                palivo[i] = "nafta";                                                    //readline
                 Console.Clear();
                 Console.WriteLine("Jaká je spotřeba auta {0} v l/100km?", auto[i]);
                 double.TryParse(Console.ReadLine(), out spotreba[i]);
