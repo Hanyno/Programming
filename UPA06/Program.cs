@@ -4,23 +4,23 @@ namespace Program
 {
     internal class app
     {
-        public static int Faktorial(int c)
+        public static int Faktorial (int c)
         {
-            if (c <= 1)
-            {
-                return 1;
-            }
-            else
-            {
-                //vypocet faktorialu
-                int vysledek = 1;
-                while (c > 1)
+            //vypocet faktorialu
+            int vysledek = 1;
+            while (c > 1)
             {
                 vysledek = vysledek * c;
                 c--;
             }
             return vysledek;
-            }
+        }
+        public static int Faktorial2 (int c)
+        {
+            if (c <= 1)
+                return 1;
+            else
+                return c *  Faktorial2(c-1);
         }
         static void Main(string[] args)
         {           
