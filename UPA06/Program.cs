@@ -2,7 +2,7 @@
 
 namespace Program
 {
-    internal class app
+    public class Matematika
     {
         //nerekurzivní řešení faktoriálu
         public static int Faktorial (int c)
@@ -24,6 +24,10 @@ namespace Program
             else
                 return c *  Faktorial2(c-1);
         }
+    }
+    internal class app
+    {
+        
         static void Main(string[] args)
         {           
             Console.WriteLine("Zadejte číslo, ze kterého chcete vypočítat faktoriál: ");
@@ -38,7 +42,7 @@ namespace Program
             Console.WriteLine(vysledek);
             Console.ReadKey();
             */
-            int vysledek = app.Faktorial(cislo);
+            int vysledek = Matematika.Faktorial(cislo);
             Console.WriteLine(vysledek);
             Console.ReadKey();
         }
