@@ -30,9 +30,10 @@ namespace Program
         
         static void Main(string[] args)
         {           
+            //Výpočet faktoriálu ze zadaného čísla
+            /*
             Console.WriteLine("Zadejte číslo, ze kterého chcete vypočítat faktoriál: ");
             int.TryParse(Console.ReadLine(), out int cislo);
-            /*
             int vysledek = 1;
             while (cislo > 1)
             {
@@ -42,9 +43,17 @@ namespace Program
             Console.WriteLine(vysledek);
             Console.ReadKey();
             */
+
+            //Výpočet faktoriálu ze zadaného čísla pomocí metody
+            /*
+            Console.WriteLine("Zadejte číslo, ze kterého chcete vypočítat faktoriál: ");
+            int.TryParse(Console.ReadLine(), out int cislo);
             int vysledek = Matematika.Faktorial(cislo);
             Console.WriteLine(vysledek);
             Console.ReadKey();
+            */
+            
+            
         }
     }
 }
