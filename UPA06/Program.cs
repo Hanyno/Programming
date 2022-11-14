@@ -2,6 +2,8 @@
 
 namespace Program
 {
+    
+    /*
     public class Matematika
     {
         //nerekurzivní řešení faktoriálu
@@ -25,6 +27,7 @@ namespace Program
                 return c *  Faktorial2(c-1);
         }
     }
+    */
     internal class app
     {
         
@@ -53,7 +56,22 @@ namespace Program
             Console.ReadKey();
             */
             
+            //Program, který počítá pocet dnu zbyvajicich do vanoc
             
+            //Vypis
+            Console.WriteLine("Zadejte datum, od kterého chcete vypocitat pocet dnu do vanoc.");
+            Console.Write("Den: ");
+            //Nacteni dne
+            int.TryParse(Console.ReadLine(), out int den);
+            Console.WriteLine();
+            Console.Write("Měsíc: ");
+            //Nacteni mesice
+            int.TryParse(Console.ReadLine(), out int mesic);
+            Console.WriteLine();
+            //Využití metody odpočtu a vypsání výsledku
+            Console.WriteLine(PoctyDnu.PocetDnuDoVanoc(den, mesic));
+            Console.WriteLine(PoctyDnu.PocetDnuDoSilvestra(den, mesic));
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,11 @@
+D:\Programming\cv07\cv07\bin\Debug\cv07.exe.config
+D:\Programming\cv07\cv07\bin\Debug\cv07.exe
+D:\Programming\cv07\cv07\bin\Debug\cv07.pdb
+D:\Programming\cv07\cv07\obj\Debug\cv07.csproj.AssemblyReference.cache
+D:\Programming\cv07\cv07\obj\Debug\cv07.csproj.SuggestedBindingRedirects.cache
+D:\Programming\cv07\cv07\obj\Debug\cv07.Form1.resources
+D:\Programming\cv07\cv07\obj\Debug\cv07.Properties.Resources.resources
+D:\Programming\cv07\cv07\obj\Debug\cv07.csproj.GenerateResource.cache
+D:\Programming\cv07\cv07\obj\Debug\cv07.csproj.CoreCompileInputs.cache
+D:\Programming\cv07\cv07\obj\Debug\cv07.exe
+D:\Programming\cv07\cv07\obj\Debug\cv07.pdb

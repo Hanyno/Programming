@@ -1,0 +1,11 @@
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\bin\Debug\SpolecnyDelitel.exe.config
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\bin\Debug\SpolecnyDelitel.exe
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\bin\Debug\SpolecnyDelitel.pdb
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.csproj.AssemblyReference.cache
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.csproj.SuggestedBindingRedirects.cache
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.Form1.resources
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.Properties.Resources.resources
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.csproj.GenerateResource.cache
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.csproj.CoreCompileInputs.cache
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.exe
+D:\Programming\SpolecnyDelitel\SpolecnyDelitel\obj\Debug\SpolecnyDelitel.pdb

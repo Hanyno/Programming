@@ -1,0 +1,15 @@
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\bin\Debug\net6.0\GeneratorOdpocinku.exe
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\bin\Debug\net6.0\GeneratorOdpocinku.deps.json
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\bin\Debug\net6.0\GeneratorOdpocinku.runtimeconfig.json
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\bin\Debug\net6.0\GeneratorOdpocinku.dll
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\bin\Debug\net6.0\GeneratorOdpocinku.pdb
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.csproj.AssemblyReference.cache
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.AssemblyInfoInputs.cache
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.AssemblyInfo.cs
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.csproj.CoreCompileInputs.cache
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.dll
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\refint\GeneratorOdpocinku.dll
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.pdb
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\GeneratorOdpocinku.genruntimeconfig.cache
+D:\Programming\GeneratorOdpocinku\GeneratorOdpocinku\obj\Debug\net6.0\ref\GeneratorOdpocinku.dll

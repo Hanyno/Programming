@@ -1,0 +1,11 @@
+D:\Programming\UPA009\UPA009\bin\Debug\UPA009.exe.config
+D:\Programming\UPA009\UPA009\bin\Debug\UPA009.exe
+D:\Programming\UPA009\UPA009\bin\Debug\UPA009.pdb
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.csproj.AssemblyReference.cache
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.csproj.SuggestedBindingRedirects.cache
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.Properties.Resources.resources
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.csproj.GenerateResource.cache
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.csproj.CoreCompileInputs.cache
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.exe
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.pdb
+D:\Programming\UPA009\UPA009\obj\Debug\UPA009.Form1.resources
